@@ -152,7 +152,7 @@ function selectAnswer(e){
 
 function showScore(){
     resetState();
-    questionElement.innerHTML = `You scored ${score} out of ${questions.length}!`;  /*must be back tick not signle quotations*/
+    questionElement.innerHTML = `You scored ${score} out of ${questions.length}!`;  /*must be back tick not single quotations*/
     nextButton.innerHTML = "Play Again";
     nextButton.style.display = "block";
 }
