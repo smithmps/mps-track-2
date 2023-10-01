@@ -84,10 +84,10 @@ const questions = [
     {
         question: "The first trap in the Saw movie was...",
         answers: [
-            {text: "The reverse bear trap", correct: true},
+            {text: "The reverse bear trap", correct: false},
             {text: "The rack", correct: false},
             {text: "The needle pit", correct: false},
-            {text: "The bathtub", correct: false},
+            {text: "The bathtub", correct: true},
         ]
     }
 ];
