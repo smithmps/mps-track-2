@@ -35,6 +35,60 @@ const questions = [
             {text: "2015", correct: false},
             {text: "2012", correct: false},
         ]
+    },
+    {
+        question: "In Friday 13th, what was Jason's most used weapon?",
+        answers: [
+            {text: "His hands", correct: false},
+            {text: "The Vorhees dagger", correct: false},
+            {text: "An Axe", correct: false},
+            {text: "A Machete", correct: true},
+        ]
+    },
+    {
+        question: "In the Nun movie, what kills Valak?",
+        answers: [
+            {text: "Drowned in Holy Water", correct: false},
+            {text: "Stabbed through the heart", correct: false},
+            {text: "Blood of Christ spat on her", correct: true},
+            {text: "Burnt to death", correct: false},
+        ]
+    },
+    {
+        question: "How did Ruby Roundhouse lose her first life in Jumanji?",
+        answers: [
+            {text: "Bitten by a snake", correct: true},
+            {text: "Eaten by a hippo", correct: false},
+            {text: "Shot", correct: false},
+            {text: "Shoved off a cliff", correct: false},
+        ]
+    },
+    {
+        question: "Which movie was partially filmed in Wales?",
+        answers: [
+            {text: "Don't Breathe", correct: false},
+            {text: "The Orphan", correct: false},
+            {text: "World War Z", correct: true},
+            {text: "Matilda", correct: false},
+        ]
+    },
+    {
+        question: "Who was the first villan Batman fought?",
+        answers: [
+            {text: "Dr Death", correct: true},
+            {text: "The Joker", correct: false},
+            {text: "Poison Ivy", correct: false},
+            {text: "Harley Quinn", correct: false},
+        ]
+    },
+    {
+        question: "The first trap in the Saw movie was...",
+        answers: [
+            {text: "The reverse bear trap", correct: true},
+            {text: "The rack", correct: false},
+            {text: "The needle pit", correct: false},
+            {text: "The bathtub", correct: false},
+        ]
     }
 ];
 
